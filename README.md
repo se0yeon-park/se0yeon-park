@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## Nice to meet u!
 <!--
 **se0yeon-park/se0yeon-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
